@@ -161,8 +161,7 @@
          </div>
          
          <!--end of main content of the body-->
-
-         
+        
          <!--profile modal-->
          
          <!-- Button trigger modal -->
