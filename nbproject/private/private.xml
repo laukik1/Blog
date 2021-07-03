@@ -3,21 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/dao/UserDao.java</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/servlets/LikeServlet.java</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/register_page.jsp</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/profile.jsp</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/load_posts.jsp</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/normal_navbar.jsp</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/servlets/AddPostServlet.java</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/show_blog_page.jsp</file>
             <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/entities/Post.java</file>
             <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/helper/Helper.java</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/login_page.jsp</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/dao/UserDao.java</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/servlets/LikeServlet.java</file>
             <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/index.jsp</file>
             <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/dao/LikeDao.java</file>
-            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/js/myjs.js</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/register_page.jsp</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/profile.jsp</file>
             <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/dao/PostDao.java</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/src/java/com/javaProject/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/laukik/Documents/NetBeansProjects/javaProject/web/show_blog_page.jsp</file>
         </group>
     </open-files>
 </project-private>
